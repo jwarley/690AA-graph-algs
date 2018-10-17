@@ -26,6 +26,6 @@ Here `k` is the desired number of centers and `graph` is a file path to a weight
 
 **Note:** Both algorithms require the input graph to satisfy the triangle inequality; the programs make no guarantees about behavior on inputs that violate this assumption.
 
-# References
+# References:
 
 The K6 example graph is copied from [Lenore Cowen's notes](http://www.cs.tufts.edu/comp/260/lecture3a.pdf).
